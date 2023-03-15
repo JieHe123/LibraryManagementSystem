@@ -1,0 +1,19 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <welcome-file-list>
+    <welcome-file>login.jsp</welcome-file>
+  </welcome-file-list>
+
+<!--  <servlet>-->
+<!--    <servlet-name>nowTime</servlet-name>                    &lt;!&ndash;第三步&ndash;&gt;-->
+<!--    <servlet-class>Test.TestForTimeServlet</servlet-class>  &lt;!&ndash;第四步&ndash;&gt;-->
+<!--  </servlet>-->
+<!--  <servlet-mapping>-->
+<!--    <servlet-name>nowTime</servlet-name>   &lt;!&ndash;第二步&ndash;&gt;-->
+<!--    <url-pattern>/nowTime</url-pattern>    &lt;!&ndash;第一步&ndash;&gt;-->
+<!--  </servlet-mapping>-->
+</web-app>
